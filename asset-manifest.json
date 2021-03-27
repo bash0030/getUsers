@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/getUsers/static/css/main.6c07f9a9.chunk.css",
+    "main.js": "/getUsers/static/js/main.70745d10.chunk.js",
+    "main.js.map": "/getUsers/static/js/main.70745d10.chunk.js.map",
+    "runtime-main.js": "/getUsers/static/js/runtime-main.abae9226.js",
+    "runtime-main.js.map": "/getUsers/static/js/runtime-main.abae9226.js.map",
+    "static/js/2.47b31d3f.chunk.js": "/getUsers/static/js/2.47b31d3f.chunk.js",
+    "static/js/2.47b31d3f.chunk.js.map": "/getUsers/static/js/2.47b31d3f.chunk.js.map",
+    "index.html": "/getUsers/index.html",
+    "precache-manifest.e2bb0be865da9280f951f4a4f2c96af2.js": "/getUsers/precache-manifest.e2bb0be865da9280f951f4a4f2c96af2.js",
+    "service-worker.js": "/getUsers/service-worker.js",
+    "static/css/main.6c07f9a9.chunk.css.map": "/getUsers/static/css/main.6c07f9a9.chunk.css.map",
+    "static/js/2.47b31d3f.chunk.js.LICENSE.txt": "/getUsers/static/js/2.47b31d3f.chunk.js.LICENSE.txt",
+    "static/media/octocat.svg": "/getUsers/static/media/octocat.d617763f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abae9226.js",
+    "static/js/2.47b31d3f.chunk.js",
+    "static/css/main.6c07f9a9.chunk.css",
+    "static/js/main.70745d10.chunk.js"
+  ]
+}
